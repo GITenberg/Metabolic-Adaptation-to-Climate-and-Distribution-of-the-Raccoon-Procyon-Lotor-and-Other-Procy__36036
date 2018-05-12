@@ -1,0 +1,39 @@
+_repo: Metabolic-Adaptation-to-Climate-and-Distribution-of-the-Raccoon-Procyon-Lotor-and-Other-Procy__36036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36036-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Mugaas, John N.
+    gutenberg_agent_id: '38042'
+    url: http://www.gutenberg.org/2009/agents/38042
+  - agent_name: Mahlke-Johnson, Kathleen P.
+    gutenberg_agent_id: '38044'
+    url: http://www.gutenberg.org/2009/agents/38044
+  - agent_name: Seidensticker, John
+    gutenberg_agent_id: '38043'
+    url: http://www.gutenberg.org/2009/agents/38043
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36036'
+  lccn: '93003119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Smithsonian Contributions to Zoology, Number 542
+subjects:
+- !lcsh 'Procyonidae -- Metabolism -- Climatic factors'
+- !lcsh 'Raccoon -- Metabolism -- Climatic factors'
+- !lcsh 'Procyonidae -- Geographical distribution -- Climatic factors'
+- !lcc 'QL'
+- !lcsh 'Raccoon -- Geographical distribution -- Climatic factors'
+title: Metabolic Adaptation to Climate and Distribution of the Raccoon Procyon Lotor
+  and Other Procyonidae
+url: http://www.gutenberg.org/ebooks/36036
